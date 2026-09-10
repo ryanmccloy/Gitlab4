@@ -1,3 +1,1 @@
-Ryan McCloy
-Hegedüs Bernát Viktor
-
+Ryan's new change to the README
