@@ -1,1 +1,3 @@
-# Gitlab4
+Ryan McCloy
+Hegedüs Bernát Viktor
+Simon Knight
